@@ -35,9 +35,9 @@ I enjoy working on projects that combine technology with real-world impact, espe
 
 ### 🔗 Let's Connect:
 <p>
-  <a href="mailto:nandha.learn@gmail.com"><img src="https://img.shields.io/badge/Email-barathg.work@gmail.com-blue?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/AKNvFDYgZJ/"><img src="https://img.shields.io/badge/LeetCode-barath_101-orange?style=flat&logo=leetcode&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/nandhakumar2006/"><img src="https://img.shields.io/badge/LinkedIn-Barath%20G-blue?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:nandha.learn@gmail.com"><img src="https://img.shields.io/badge/Email-nandha.learn@gmail.com-blue?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/AKNvFDYgZJ/"><img src="https://img.shields.io/badge/LeetCode-NandhakumarT-orange?style=flat&logo=leetcode&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/nandhakumar2006/"><img src="https://img.shields.io/badge/LinkedIn-Nandhakumar%20T-blue?style=flat&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
