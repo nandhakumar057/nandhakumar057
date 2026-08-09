@@ -1,7 +1,7 @@
 <h1 align="center">Hey Hi, I'm Nandhakumar T</h1>
 <h3 align="center">19 y/o Computer Science student | Software Engineer in progress | AI enthusiast</h3>
 
-<img align="right" alt="Coding" width="300" src="![Uploading ChatGPT Image Aug 9, 2026, 04_23_38 PM.png…]()
+<img align="right" alt="Coding" width="300" src="https://www.vecteezy.com/photo/39190517-ai-generated-programmer-coding-on-laptop-at-night
 " />
 - 🌱 I’m learning **MERN stack**, **API integration**, **machine learning**, and **cloud deployment**
 - 💡 I love converting real-world problems into working software solutions
