@@ -1,13 +1,15 @@
-# Hey there!  I'm Nandhakumar
+<h1 align="center">Hey Hi, I'm Nandhakumar T</h1>
+<h3 align="center">19 y/o Computer Science student | Software Engineer in progress | AI enthusiast</h3>
 
- Computer Science Engineering Student
- Aspiring Full-Stack Developer
- Exploring AI & Cloud Technologies
- Tamil Nadu, India
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+- 🌱 I’m learning **MERN stack**, **API integration**, **machine learning**, and **cloud deployment**
+- 💡 I love converting real-world problems into working software solutions
+- 🧠 Practicing DSA on [LeetCode](https://leetcode.com/u/AKNvFDYgZJ/)
+- 📫 Reach me at **nandha.learn@gmail.com**
+- 👨‍💻 You can find me on [LinkedIn](https://www.linkedin.com/in/nandhakumar2006/)
 
 ---
-
-## About Me
+About Me
 
 I'm a Computer Science Engineering student who enjoys learning new technologies and turning ideas into real-world projects.
 
@@ -15,119 +17,31 @@ My journey in tech started with curiosity about how websites, applications, and 
 
 I enjoy working on projects that combine technology with real-world impact, especially in areas like Artificial Intelligence, Cloud Computing, and Full-Stack Development.
 
----
 
-## What I'm Currently Doing
-
- Learning MERN Stack Development
-
- Exploring AWS Cloud Services
-
- Improving Data Structures & Algorithms
-
- Building practical projects to strengthen my skills
-
- Learning something new every day
+### ⚒️ Languages and Tools I Use:
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,supabases,nodejs,express,mongodb,python,vscode,git,github" />
+</p>
 
 ---
 
-## Technologies I Work With
-
-### Languages
-
-* C
-* C++
-* Java
-* Python
-* JavaScript
-
-### Frontend
-
-* HTML
-* CSS
-* JavaScript
-### Backend
-
-* Node.js
-* Express.js
-
-### Databases
-
-* MongoDB
-* MySQL
-* Supabase
-
-### Tools
-
-* Git
-* GitHub
-* VS Code
-* Postman
-* AWS
+### 📊 GitHub Stats:
+<p>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=barath-101&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=barath-101&theme=tokyonight" />
+</p>
 
 ---
 
-## Projects I'm Proud Of
-
-### FraudShield AI
-
-A multilingual fraud detection system designed to identify suspicious messages and generate fraud risk scores using AI-powered analysis.
-
-### Student Management System
-
-A complete academic management platform with student and admin dashboards, attendance tracking, and marks management.
-
-### Smart Tourist Safety Monitoring
-
-A technology-driven platform focused on improving tourist safety through monitoring and emergency support features.
+### 🔗 Let's Connect:
+<p>
+  <a href="mailto:nandha.learn@gmail.com"><img src="https://img.shields.io/badge/Email-barathg.work@gmail.com-blue?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/AKNvFDYgZJ/"><img src="https://img.shields.io/badge/LeetCode-barath_101-orange?style=flat&logo=leetcode&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/nandhakumar2006/"><img src="https://img.shields.io/badge/LinkedIn-Barath%20G-blue?style=flat&logo=linkedin&logoColor=white" /></a>
+</p>
 
 ---
 
-## Beyond Coding
+*“Every expert was once a beginner. I'm here to build, break, learn, and grow.”*
 
-♟️ Chess Enthusiast
 
-🏆 Hackathon Participant
-
-📖 Lifelong Learner
-
-🎯 Focused on Personal Growth
-
-🤝 Always Open to Learning and Collaboration
-
----
-
-## My Goals
-
-* Build meaningful software solutions
-* Contribute to open-source projects
-* Gain industry experience through internships
-* Master Full-Stack Development
-* Learn advanced Cloud Technologies
-* Grow as a Software Engineer
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
-
----
-
-## Let's Connect
-
-* GitHub: https://github.com/nandhakumar057
-* LinkedIn: https://www.linkedin.com/in/nandhakumar2006/
-* Portfolio: https://portfolio-company-ift7.vercel.app/
-
----
-
-### A Quote I Like
-
-> "Success is not about being the best. It's about being better than yesterday."
-
-Thanks for visiting my profile! 😊
