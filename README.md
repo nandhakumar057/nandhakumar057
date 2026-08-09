@@ -1,9 +1,9 @@
-# Hey there! 👋 I'm Nandhakumar
+# Hey there!  I'm Nandhakumar
 
-🎓 Computer Science Engineering Student
-💻 Aspiring Full-Stack Developer
-🤖 Exploring AI & Cloud Technologies
-📍 Tamil Nadu, India
+ Computer Science Engineering Student
+ Aspiring Full-Stack Developer
+ Exploring AI & Cloud Technologies
+ Tamil Nadu, India
 
 ---
 
@@ -19,15 +19,15 @@ I enjoy working on projects that combine technology with real-world impact, espe
 
 ## What I'm Currently Doing
 
-🌱 Learning MERN Stack Development
+ Learning MERN Stack Development
 
-☁️ Exploring AWS Cloud Services
+ Exploring AWS Cloud Services
 
-📚 Improving Data Structures & Algorithms
+ Improving Data Structures & Algorithms
 
-🚀 Building practical projects to strengthen my skills
+ Building practical projects to strengthen my skills
 
-💡 Learning something new every day
+ Learning something new every day
 
 ---
 
@@ -45,9 +45,7 @@ I enjoy working on projects that combine technology with real-world impact, espe
 
 * HTML
 * CSS
-* Tailwind CSS
-* React
-
+* JavaScript
 ### Backend
 
 * Node.js
